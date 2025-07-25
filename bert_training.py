@@ -15,6 +15,19 @@ texts = [item["content"] for item in data]
 labels = [item["intent"] for item in data]
 
 # map label to id
+"""
+"0": "benefits_value_alignment", 
+"1": "commitment_decision_cues", 
+"2": "cost_fee_inquiry", 
+"3": "greeting_rapport_building", 
+"4": "negotiation_signals", 
+"5": "next_steps_logistics", 
+"6": "objections_concerns", 
+"7": "personal_goals_articulation", 
+"8": "product_discovery", 
+"9": "risk_suitability_assessment"
+"""
+
 label2id = {label: idx for idx, label in enumerate(sorted(set(labels)))}
 id2label = {idx: label for label, idx in label2id.items()}
 

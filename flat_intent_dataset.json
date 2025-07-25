@@ -3838,6 +3838,886 @@
   {
     "content": "I’ll go with this plan.",
     "intent": "commitment_decision_cues"
+  },
+  {
+    "content": "How does this align with sustainable investing principles?",
+    "intent": "benefits_value_alignment"
+  },
+  {
+    "content": "What documentation should I gather beforehand?",
+    "intent": "next_steps_logistics"
+  },
+  {
+    "content": "Consider this my formal agreement to proceed",
+    "intent": "commitment_decision_cues"
+  },
+  {
+    "content": "What's the probability of capital loss with this strategy?",
+    "intent": "risk_suitability_assessment"
+  },
+  {
+    "content": "Can we structure this with performance-based fees?",
+    "intent": "negotiation_signals"
+  },
+  {
+    "content": "I'm concerned about liquidity constraints",
+    "intent": "objections_concerns"
+  },
+  {
+    "content": "My priority is tax-efficient wealth transfer",
+    "intent": "personal_goals_articulation"
+  },
+  {
+    "content": "Are there transaction fees for rebalancing?",
+    "intent": "cost_fee_inquiry"
+  },
+  {
+    "content": "Good to see you again!",
+    "intent": "greeting_rapport_building"
+  },
+  {
+    "content": "Do you offer sector-specific investment funds?",
+    "intent": "product_discovery"
+  },
+  {
+    "content": "How will this help mitigate sequence-of-returns risk?",
+    "intent": "benefits_value_alignment"
+  },
+  {
+    "content": "Where should I send the signed documents?",
+    "intent": "next_steps_logistics"
+  },
+  {
+    "content": "I authorize you to initiate the process",
+    "intent": "commitment_decision_cues"
+  },
+  {
+    "content": "What stress testing has been done on this portfolio?",
+    "intent": "risk_suitability_assessment"
+  },
+  {
+    "content": "Would bundled services reduce overall costs?",
+    "intent": "negotiation_signals"
+  },
+  {
+    "content": "The lock-up period makes me hesitant",
+    "intent": "objections_concerns"
+  },
+  {
+    "content": "I aim to generate charitable giving capacity",
+    "intent": "personal_goals_articulation"
+  },
+  {
+    "content": "Are fee waivers available for certain balances?",
+    "intent": "cost_fee_inquiry"
+  },
+  {
+    "content": "Thanks for the prompt follow-up",
+    "intent": "greeting_rapport_building"
+  },
+  {
+    "content": "What cryptocurrency-linked options exist?",
+    "intent": "product_discovery"
+  },
+  {
+    "content": "Does this provide inflation hedging characteristics?",
+    "intent": "benefits_value_alignment"
+  },
+  {
+    "content": "Who will handle the account transition?",
+    "intent": "next_steps_logistics"
+  },
+  {
+    "content": "You have my consent to execute",
+    "intent": "commitment_decision_cues"
+  },
+  {
+    "content": "What's the maximum drawdown historically?",
+    "intent": "risk_suitability_assessment"
+  },
+  {
+    "content": "Can we incorporate a clawback provision?",
+    "intent": "negotiation_signals"
+  },
+  {
+    "content": "The complexity exceeds my comfort level",
+    "intent": "objections_concerns"
+  },
+  {
+    "content": "I need to fund a special needs trust",
+    "intent": "personal_goals_articulation"
+  },
+  {
+    "content": "Are there inactivity fees?",
+    "intent": "cost_fee_inquiry"
+  },
+  {
+    "content": "Appreciate your expertise in this matter",
+    "intent": "greeting_rapport_building"
+  },
+  {
+    "content": "What REIT options are available?",
+    "intent": "product_discovery"
+  },
+  {
+    "content": "How does this enhance portfolio efficiency?",
+    "intent": "benefits_value_alignment"
+  },
+  {
+    "content": "What's the funding deadline?",
+    "intent": "next_steps_logistics"
+  },
+  {
+    "content": "I accept these terms unconditionally",
+    "intent": "commitment_decision_cues"
+  },
+  {
+    "content": "What's the Value-at-Risk for this product?",
+    "intent": "risk_suitability_assessment"
+  },
+  {
+    "content": "Will you cover transfer-out fees?",
+    "intent": "negotiation_signals"
+  },
+  {
+    "content": "The track record seems inconsistent",
+    "intent": "objections_concerns"
+  },
+  {
+    "content": "My objective is business succession funding",
+    "intent": "personal_goals_articulation"
+  },
+  {
+    "content": "Are fees deductible from taxable income?",
+    "intent": "cost_fee_inquiry"
+  },
+  {
+    "content": "Thanks for accommodating my schedule",
+    "intent": "greeting_rapport_building"
+  },
+  {
+    "content": "Do you offer structured notes?",
+    "intent": "product_discovery"
+  },
+  {
+    "content": "How will this improve my risk-adjusted returns?",
+    "intent": "benefits_value_alignment"
+  },
+  {
+    "content": "What verification steps are required?",
+    "intent": "next_steps_logistics"
+  },
+  {
+    "content": "Proceed as we've discussed",
+    "intent": "commitment_decision_cues"
+  },
+  {
+    "content": "What's the counterparty risk exposure?",
+    "intent": "risk_suitability_assessment"
+  },
+  {
+    "content": "Can we include a ratchet feature?",
+    "intent": "negotiation_signals"
+  },
+  {
+    "content": "The projected returns seem unrealistic",
+    "intent": "objections_concerns"
+  },
+  {
+    "content": "I seek to minimize probate complications",
+    "intent": "personal_goals_articulation"
+  },
+  {
+    "content": "What are wire transfer charges?",
+    "intent": "cost_fee_inquiry"
+  },
+  {
+    "content": "Always valuable speaking with you",
+    "intent": "greeting_rapport_building"
+  },
+  {
+    "content": "Are managed futures strategies available?",
+    "intent": "product_discovery"
+  },
+  {
+    "content": "How does this address concentration risk?",
+    "intent": "benefits_value_alignment"
+  },
+  {
+    "content": "When will the first statement generate?",
+    "intent": "next_steps_logistics"
+  },
+  {
+    "content": "I'm fully committed to this approach",
+    "intent": "commitment_decision_cues"
+  },
+  {
+    "content": "What liquidity provisions exist?",
+    "intent": "risk_suitability_assessment"
+  },
+  {
+    "content": "Would a letter of intent reduce requirements?",
+    "intent": "negotiation_signals"
+  },
+  {
+    "content": "The disclosures raise red flags for me",
+    "intent": "objections_concerns"
+  },
+  {
+    "content": "I want to establish a donor-advised fund",
+    "intent": "personal_goals_articulation"
+  },
+  {
+    "content": "What are redemption fees?",
+    "intent": "cost_fee_inquiry"
+  },
+  {
+    "content": "Your guidance has been invaluable",
+    "intent": "greeting_rapport_building"
+  },
+  {
+    "content": "What commodities exposure options exist?",
+    "intent": "product_discovery"
+  },
+  {
+    "content": "How does this integrate with existing holdings?",
+    "intent": "benefits_value_alignment"
+  },
+  {
+    "content": "What's the cut-off time for submissions?",
+    "intent": "next_steps_logistics"
+  },
+  {
+    "content": "You have my formal approval",
+    "intent": "commitment_decision_cues"
+  },
+  {
+    "content": "What's the scenario analysis for rising rates?",
+    "intent": "risk_suitability_assessment"
+  },
+  {
+    "content": "Can we add a performance hurdle?",
+    "intent": "negotiation_signals"
+  },
+  {
+    "content": "The fee structure appears burdensome",
+    "intent": "objections_concerns"
+  },
+  {
+    "content": "I'm funding a 529 plan for grandchildren",
+    "intent": "personal_goals_articulation"
+  },
+  {
+    "content": "Are there low-balance fees?",
+    "intent": "cost_fee_inquiry"
+  },
+  {
+    "content": "Thanks for your thorough explanation",
+    "intent": "greeting_rapport_building"
+  },
+  {
+    "content": "What interval funds do you offer?",
+    "intent": "product_discovery"
+  },
+  {
+    "content": "How does this support capital preservation?",
+    "intent": "benefits_value_alignment"
+  },
+  {
+    "content": "Who's my primary contact during implementation?",
+    "intent": "next_steps_logistics"
+  },
+  {
+    "content": "I'm executing this decision immediately",
+    "intent": "commitment_decision_cues"
+  },
+  {
+    "content": "What's the duration risk in this portfolio?",
+    "intent": "risk_suitability_assessment"
+  },
+  {
+    "content": "Can we establish a fee cap?",
+    "intent": "negotiation_signals"
+  },
+  {
+    "content": "The investment thesis seems unclear",
+    "intent": "objections_concerns"
+  },
+  {
+    "content": "My focus is philanthropic legacy planning",
+    "intent": "personal_goals_articulation"
+  },
+  {
+    "content": "What are IRA custodial fees?",
+    "intent": "cost_fee_inquiry"
+  },
+  {
+    "content": "Appreciate your proactive approach",
+    "intent": "greeting_rapport_building"
+  },
+  {
+    "content": "Do you offer direct indexing strategies?",
+    "intent": "product_discovery"
+  },
+  {
+    "content": "How will this reduce my overall tax liability?",
+    "intent": "benefits_value_alignment"
+  },
+  {
+    "content": "What's the timeline for asset transfer?",
+    "intent": "next_steps_logistics"
+  },
+  {
+    "content": "I'm confirming my participation",
+    "intent": "commitment_decision_cues"
+  },
+  {
+    "content": "What currency risks are involved?",
+    "intent": "risk_suitability_assessment"
+  },
+  {
+    "content": "Can we negotiate the notice period?",
+    "intent": "negotiation_signals"
+  },
+  {
+    "content": "The manager tenure concerns me",
+    "intent": "objections_concerns"
+  },
+  {
+    "content": "I'm building a war chest for opportunities",
+    "intent": "personal_goals_articulation"
+  },
+  {
+    "content": "What are wrap account fees?",
+    "intent": "cost_fee_inquiry"
+  },
+  {
+    "content": "Your reputation precedes you positively",
+    "intent": "greeting_rapport_building"
+  },
+  {
+    "content": "What private credit options exist?",
+    "intent": "product_discovery"
+  },
+  {
+    "content": "How does this product handle currency fluctuation risks?",
+    "intent": "risk_suitability_assessment"
+  },
+  {
+    "content": "What's the minimum lock-in period for this investment?",
+    "intent": "cost_fee_inquiry"
+  },
+  {
+    "content": "Can we incorporate charitable giving into this strategy?",
+    "intent": "personal_goals_articulation"
+  },
+  {
+    "content": "I'd like to authorize the transaction today",
+    "intent": "commitment_decision_cues"
+  },
+  {
+    "content": "Does this align with Sharia-compliant investing principles?",
+    "intent": "product_discovery"
+  },
+  {
+    "content": "What contingency plans exist for market downturns?",
+    "intent": "benefits_value_alignment"
+  },
+  {
+    "content": "Could we implement a staggered investment approach?",
+    "intent": "negotiation_signals"
+  },
+  {
+    "content": "The historical beta seems concerningly high",
+    "intent": "objections_concerns"
+  },
+  {
+    "content": "What's the procedure for beneficiary designation?",
+    "intent": "next_steps_logistics"
+  },
+  {
+    "content": "I appreciate your firm's reputation in this space",
+    "intent": "greeting_rapport_building"
+  },
+  {
+    "content": "How does this strategy capture upside potential?",
+    "intent": "benefits_value_alignment"
+  },
+  {
+    "content": "What's the procedure for rebalancing allocations?",
+    "intent": "next_steps_logistics"
+  },
+  {
+    "content": "I'm prepared to execute the documents now",
+    "intent": "commitment_decision_cues"
+  },
+  {
+    "content": "What's the geopolitical risk exposure?",
+    "intent": "risk_suitability_assessment"
+  },
+  {
+    "content": "Can we set performance-based fee reductions?",
+    "intent": "negotiation_signals"
+  },
+  {
+    "content": "The concentration in tech stocks worries me",
+    "intent": "objections_concerns"
+  },
+  {
+    "content": "I'm funding generational wealth transfer",
+    "intent": "personal_goals_articulation"
+  },
+  {
+    "content": "Are there custodial fees for retirement accounts?",
+    "intent": "cost_fee_inquiry"
+  },
+  {
+    "content": "Always insightful speaking with your team",
+    "intent": "greeting_rapport_building"
+  },
+  {
+    "content": "What interval fund options are available?",
+    "intent": "product_discovery"
+  },
+  {
+    "content": "How does this mitigate longevity risk?",
+    "intent": "benefits_value_alignment"
+  },
+  {
+    "content": "Who handles dividend reinvestment setup?",
+    "intent": "next_steps_logistics"
+  },
+  {
+    "content": "Consider the agreement finalized",
+    "intent": "commitment_decision_cues"
+  },
+  {
+    "content": "What's the tail risk exposure?",
+    "intent": "risk_suitability_assessment"
+  },
+  {
+    "content": "Would you consider fee transparency benchmarking?",
+    "intent": "negotiation_signals"
+  },
+  {
+    "content": "The liquidity terms seem restrictive",
+    "intent": "objections_concerns"
+  },
+  {
+    "content": "I'm creating educational endowments",
+    "intent": "personal_goals_articulation"
+  },
+  {
+    "content": "Are there securities lending revenue shares?",
+    "intent": "cost_fee_inquiry"
+  },
+  {
+    "content": "Your firm's research capabilities impress me",
+    "intent": "greeting_rapport_building"
+  },
+  {
+    "content": "What direct indexing solutions exist?",
+    "intent": "product_discovery"
+  },
+  {
+    "content": "How does this address decumulation phase needs?",
+    "intent": "benefits_value_alignment"
+  },
+  {
+    "content": "What's the timeline for proxy voting setup?",
+    "intent": "next_steps_logistics"
+  },
+  {
+    "content": "I consent to proceed immediately",
+    "intent": "commitment_decision_cues"
+  },
+  {
+    "content": "What climate-related financial risks exist?",
+    "intent": "risk_suitability_assessment"
+  },
+  {
+    "content": "Can we implement hurdle rate provisions?",
+    "intent": "negotiation_signals"
+  },
+  {
+    "content": "The redemption gates concern me",
+    "intent": "objections_concerns"
+  },
+  {
+    "content": "I'm establishing perpetual trusts",
+    "intent": "personal_goals_articulation"
+  },
+  {
+    "content": "What are securities transaction charges?",
+    "intent": "cost_fee_inquiry"
+  },
+  {
+    "content": "Your approach aligns with my values",
+    "intent": "greeting_rapport_building"
+  },
+  {
+    "content": "What catastrophe bond options exist?",
+    "intent": "product_discovery"
+  },
+  {
+    "content": "How does this strategy manage convexity risk?",
+    "intent": "benefits_value_alignment"
+  },
+  {
+    "content": "Who coordinates with my tax professional?",
+    "intent": "next_steps_logistics"
+  },
+  {
+    "content": "I approve the terms without reservation",
+    "intent": "commitment_decision_cues"
+  },
+  {
+    "content": "What's the counterparty credit exposure?",
+    "intent": "risk_suitability_assessment"
+  },
+  {
+    "content": "Can we structure as a separate managed account?",
+    "intent": "negotiation_signals"
+  },
+  {
+    "content": "The style drift potential gives pause",
+    "intent": "objections_concerns"
+  },
+  {
+    "content": "I'm funding healthcare legacy planning",
+    "intent": "personal_goals_articulation"
+  },
+  {
+    "content": "What are securities lending fees?",
+    "intent": "cost_fee_inquiry"
+  },
+  {
+    "content": "Your regulatory compliance record reassures me",
+    "intent": "greeting_rapport_building"
+  },
+  {
+    "content": "What interval fund options exist?",
+    "intent": "product_discovery"
+  },
+  {
+    "content": "How does this manage basis risk?",
+    "intent": "benefits_value_alignment"
+  },
+  {
+    "content": "What's the collateral management process?",
+    "intent": "next_steps_logistics"
+  },
+  {
+    "content": "I'm formally accepting this proposal",
+    "intent": "commitment_decision_cues"
+  },
+  {
+    "content": "What's the inflation sensitivity?",
+    "intent": "risk_suitability_assessment"
+  },
+  {
+    "content": "Can we include a key person provision?",
+    "intent": "negotiation_signals"
+  },
+  {
+    "content": "The backfill bias in returns concerns me",
+    "intent": "objections_concerns"
+  },
+  {
+    "content": "I'm establishing conservation easements",
+    "intent": "personal_goals_articulation"
+  },
+  {
+    "content": "What are directed trustee fees?",
+    "intent": "cost_fee_inquiry"
+  },
+  {
+    "content": "Your transparency distinguishes your firm",
+    "intent": "greeting_rapport_building"
+  },
+  {
+    "content": "What litigation finance options exist?",
+    "intent": "product_discovery"
+  },
+  {
+    "content": "How does this strategy optimize tax lot harvesting?",
+    "intent": "benefits_value_alignment"
+  },
+  {
+    "content": "Who handles regulatory reporting?",
+    "intent": "next_steps_logistics"
+  },
+  {
+    "content": "I'm executing the power of attorney",
+    "intent": "commitment_decision_cues"
+  },
+  {
+    "content": "What's the derivatives counterparty exposure?",
+    "intent": "risk_suitability_assessment"
+  },
+  {
+    "content": "Can we negotiate soft dollar arrangements?",
+    "intent": "negotiation_signals"
+  },
+  {
+    "content": "The capacity constraints worry me",
+    "intent": "objections_concerns"
+  },
+  {
+    "content": "I'm creating scholarship foundations",
+    "intent": "personal_goals_articulation"
+  },
+  {
+    "content": "What are proxy voting service fees?",
+    "intent": "cost_fee_inquiry"
+  },
+  {
+    "content": "Your cyber security protocols inspire confidence",
+    "intent": "greeting_rapport_building"
+  },
+  {
+    "content": "What music royalty investment options exist?",
+    "intent": "product_discovery"
+  },
+  {
+    "content": "How does this manage reinvestment risk?",
+    "intent": "benefits_value_alignment"
+  },
+  {
+    "content": "What's the process for corporate action elections?",
+    "intent": "next_steps_logistics"
+  },
+  {
+    "content": "I'm authorizing the capital commitment",
+    "intent": "commitment_decision_cues"
+  },
+  {
+    "content": "What's the scenario analysis for stagflation?",
+    "intent": "risk_suitability_assessment"
+  },
+  {
+    "content": "Can we implement a high-water mark?",
+    "intent": "negotiation_signals"
+  },
+  {
+    "content": "The redemption queue position concerns me",
+    "intent": "objections_concerns"
+  },
+  {
+    "content": "I'm establishing dynasty trusts",
+    "intent": "personal_goals_articulation"
+  },
+  {
+    "content": "What are foreign tax reclaim fees?",
+    "intent": "cost_fee_inquiry"
+  },
+  {
+    "content": "Your succession planning reassures me",
+    "intent": "greeting_rapport_building"
+  },
+  {
+    "content": "What farmland investment options exist?",
+    "intent": "product_discovery"
+  },
+  {
+    "content": "How does this strategy manage dispersion risk?",
+    "intent": "benefits_value_alignment"
+  },
+  {
+    "content": "Who coordinates with family office services?",
+    "intent": "next_steps_logistics"
+  },
+  {
+    "content": "I'm confirming capital deployment",
+    "intent": "commitment_decision_cues"
+  },
+  {
+    "content": "What's the transition risk exposure?",
+    "intent": "risk_suitability_assessment"
+  },
+  {
+    "content": "Can we negotiate fund-level gate provisions?",
+    "intent": "negotiation_signals"
+  },
+  {
+    "content": "The indemnification clauses seem inadequate",
+    "intent": "objections_concerns"
+  },
+  {
+    "content": "I'm funding impact investment initiatives",
+    "intent": "personal_goals_articulation"
+  },
+  {
+    "content": "What are securities class action recovery fees?",
+    "intent": "cost_fee_inquiry"
+  },
+  {
+    "content": "Your ESG integration impresses me",
+    "intent": "greeting_rapport_building"
+  },
+  {
+    "content": "What carbon credit investment vehicles exist?",
+    "intent": "product_discovery"
+  },
+  {
+    "content": "How does this strategy optimize charitable deductions?",
+    "intent": "benefits_value_alignment"
+  },
+  {
+    "content": "What's the protocol for proxy contests?",
+    "intent": "next_steps_logistics"
+  },
+  {
+    "content": "I'm approving the subscription documents",
+    "intent": "commitment_decision_cues"
+  },
+  {
+    "content": "What's the physical climate risk exposure?",
+    "intent": "risk_suitability_assessment"
+  },
+  {
+    "content": "Can we negotiate redemption notice periods?",
+    "intent": "negotiation_signals"
+  },
+  {
+    "content": "The key man dependency concerns me",
+    "intent": "objections_concerns"
+  },
+  {
+    "content": "I'm establishing perpetual purpose trusts",
+    "intent": "personal_goals_articulation"
+  },
+  {
+    "content": "What are tax reclaim service fees?",
+    "intent": "cost_fee_inquiry"
+  },
+  {
+    "content": "Your firm's continuity planning is exemplary",
+    "intent": "greeting_rapport_building"
+  },
+  {
+    "content": "What timberland investment options exist?",
+    "intent": "product_discovery"
+  },
+  {
+    "content": "How does this strategy mitigate jurisdictional risk?",
+    "intent": "benefits_value_alignment"
+  },
+  {
+    "content": "What's the process for beneficial ownership reporting?",
+    "intent": "next_steps_logistics"
+  },
+  {
+    "content": "I'm executing the limited partnership agreement",
+    "intent": "commitment_decision_cues"
+  },
+  {
+    "content": "What's the model validation process?",
+    "intent": "risk_suitability_assessment"
+  },
+  {
+    "content": "Can we implement fee rebates for early commitment?",
+    "intent": "negotiation_signals"
+  },
+  {
+    "content": "The benchmark selection seems inappropriate",
+    "intent": "objections_concerns"
+  },
+  {
+    "content": "I'm funding ocean conservation endowments",
+    "intent": "personal_goals_articulation"
+  },
+  {
+    "content": "What are FATCA/CRS compliance charges?",
+    "intent": "cost_fee_inquiry"
+  },
+  {
+    "content": "Your disaster recovery protocols are reassuring",
+    "intent": "greeting_rapport_building"
+  },
+  {
+    "content": "What art securitization options exist?",
+    "intent": "product_discovery"
+  },
+  {
+    "content": "How does this strategy optimize step-up in basis?",
+    "intent": "benefits_value_alignment"
+  },
+  {
+    "content": "What's the protocol for beneficial owner verification?",
+    "intent": "next_steps_logistics"
+  },
+  {
+    "content": "I'm authorizing the capital call",
+    "intent": "commitment_decision_cues"
+  },
+  {
+    "content": "What's the cybersecurity incident response plan?",
+    "intent": "risk_suitability_assessment"
+  },
+  {
+    "content": "Can we negotiate founder share classes?",
+    "intent": "negotiation_signals"
+  },
+  {
+    "content": "The valuation methodology lacks transparency",
+    "intent": "objections_concerns"
+  },
+  {
+    "content": "I'm establishing intergenerational equity funds",
+    "intent": "personal_goals_articulation"
+  },
+  {
+    "content": "What are AML/KYC verification charges?",
+    "intent": "cost_fee_inquiry"
+  },
+  {
+    "content": "Your firm's stewardship code alignment is impressive",
+    "intent": "greeting_rapport_building"
+  },
+  {
+    "content": "What patent royalty investment vehicles exist?",
+    "intent": "product_discovery"
+  },
+  {
+    "content": "How does this strategy manage jurisdictional arbitrage?",
+    "intent": "benefits_value_alignment"
+  },
+  {
+    "content": "What's the process for UBO certification?",
+    "intent": "next_steps_logistics"
+  },
+  {
+    "content": "I'm confirming the subscription amount",
+    "intent": "commitment_decision_cues"
+  },
+  {
+    "content": "What's the operational resilience framework?",
+    "intent": "risk_suitability_assessment"
+  },
+  {
+    "content": "Can we negotiate preferential redemption terms?",
+    "intent": "negotiation_signals"
+  },
+  {
+    "content": "The side letter arrangements concern me",
+    "intent": "objections_concerns"
+  },
+  {
+    "content": "I'm funding indigenous sovereignty initiatives",
+    "intent": "personal_goals_articulation"
+  },
+  {
+    "content": "What are beneficial ownership registry fees?",
+    "intent": "cost_fee_inquiry"
+  },
+  {
+    "content": "Your TCFD reporting demonstrates leadership",
+    "intent": "greeting_rapport_building"
+  },
+  {
+    "content": "What quantum computing investment options exist?",
+    "intent": "product_discovery"
   }
 ]
 
