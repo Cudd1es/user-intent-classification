@@ -4719,6 +4719,31 @@
     "content": "What quantum computing investment options exist?",
     "intent": "product_discovery"
   },
+  {"content": "How does this option support my long-term wealth goals?", "intent": "benefits_value_alignment"},
+  {"content": "Will this plan help me build consistent returns?", "intent": "benefits_value_alignment"},
+  {"content": "What makes this strategy valuable for retirement planning?", "intent": "benefits_value_alignment"},
+  {"content": "Does this product give me a competitive edge?", "intent": "benefits_value_alignment"},
+  {"content": "Can this option help me grow my money securely?", "intent": "benefits_value_alignment"},
+  {"content": "How does this contribute to my financial future?", "intent": "benefits_value_alignment"},
+  {"content": "Is this plan structured to maximize returns?", "intent": "benefits_value_alignment"},
+  {"content": "Can this product help me outperform traditional savings?", "intent": "benefits_value_alignment"},
+  {"content": "Will this investment increase my overall portfolio value?", "intent": "benefits_value_alignment"},
+  {"content": "What kind of long-term benefits does this offer?", "intent": "benefits_value_alignment"},
+  {"content": "How can this plan help me accumulate wealth over time?", "intent": "benefits_value_alignment"},
+  {"content": "Does this align well with my investment priorities?", "intent": "benefits_value_alignment"},
+  {"content": "Will this strategy provide value across different market cycles?", "intent": "benefits_value_alignment"},
+  {"content": "What are the unique value points of this plan?", "intent": "benefits_value_alignment"},
+  {"content": "Is this solution designed for capital appreciation?", "intent": "benefits_value_alignment"},
+  {"content": "How does this compare to other growth options?", "intent": "benefits_value_alignment"},
+  {"content": "Will this approach yield sustainable value?", "intent": "benefits_value_alignment"},
+  {"content": "Can this help me hit my financial benchmarks?", "intent": "benefits_value_alignment"},
+  {"content": "Does this plan give me access to better returns?", "intent": "benefits_value_alignment"},
+  {"content": "Is this a good fit for long-term investing?", "intent": "benefits_value_alignment"},
+  {"content": "What long-term value does this bring?", "intent": "benefits_value_alignment"},
+  {"content": "Can this help me close the gap in my retirement planning?", "intent": "benefits_value_alignment"},
+  {"content": "Is this strategy optimized for wealth creation?", "intent": "benefits_value_alignment"},
+  {"content": "How will this help me reach financial independence?", "intent": "benefits_value_alignment"},
+  {"content": "Does this plan prioritize stability and growth?", "intent": "benefits_value_alignment"},
   { "content": "I'm looking for something that aligns with my long-term financial goals.", "intent": "benefits_value_alignment" },
   { "content": "How does this plan help me achieve financial independence?", "intent": "benefits_value_alignment" },
   { "content": "I want to make sure this investment fits my values around sustainability.", "intent": "benefits_value_alignment" },
@@ -5220,8 +5245,4 @@
   { "content": "I want a low-risk option to preserve capital.", "intent": "risk_suitability_assessment" },
   { "content": "Are there any tools to simulate the risk level?", "intent": "risk_suitability_assessment" }
 ]
-
-
-
-
 
